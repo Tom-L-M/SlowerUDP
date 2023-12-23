@@ -1,15 +1,15 @@
 {
-  "name": "slowerudp",
-  "version": "1.0.3",
-  "description": "",
-  "main": "index.js",
-  "directories": {
-    "lib": "lib"
-  },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+	"name": "slowerudp",
+	"version": "1.0.5",
+	"description": "A package for simple UDP server routing.",
+	"main": "index.js",
+	"directories": {
+		"lib": "lib"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "no.mad.devtech@gmail.com",
+	"license": "ISC"
 }

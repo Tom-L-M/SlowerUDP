@@ -3,6 +3,13 @@
 SlowerUDP is a small udp framework, it simplifies a little the data handling on udp servers. 
 It is the UDP equivalent of the Slower package.
 
+## Usage:
+
+```
+const SlowerUDP = require('slowerudp');
+const app = SlowerUDP();
+```
+
 ### API Methods:
 
 ```
